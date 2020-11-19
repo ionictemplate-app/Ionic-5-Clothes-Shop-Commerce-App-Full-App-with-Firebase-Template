@@ -17,11 +17,11 @@ u can easily, quickly build an Android/Ios App Use this template.
 </p>
 
 <p>
-    <a href="mailto:ionictemplate@outlook.com">
+    <a href="mailto:ionictemplate@qq.com">
         <img src="https://i.ibb.co/L9WkhY5/emailbtn.png" alt="Ionic5 Clothes Commerce Shop App" border="0">
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://youtu.be/s4AlRDStn-Q" target="_blank">
+    <a href="https://youtu.be/rmbSRFzWg0s" target="_blank">
         <img src="https://i.ibb.co/3FpDHVG/videobtn.png" alt="Ionic5 Clothes Commerce Shop App" border="0">
     </a>
 </p>
