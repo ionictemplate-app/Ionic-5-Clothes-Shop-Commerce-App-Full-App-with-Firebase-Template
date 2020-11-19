@@ -245,6 +245,12 @@ u can easily, quickly build an Android/Ios App Use this template.
     <img src="https://i.ibb.co/c3VsYJ8/redtemplate.png"
          alt="Ionic 5 / Angular 8 Red UI Theme / Template App | Starter App" border="0">
 </a>
+<a href="https://codecanyon.net/item/ionic-6-angular-10-fitness-theme-template-androidioswebapp/29415999"
+   target="_blank">
+ <img src="https://i.ibb.co/PGvmPXh/Inline-Preview1.jpg" alt="Inline-Preview1" border="0">
+</a>
+
+
 
 <h2><strong>About our Apps Reviews</strong></h2>
 <img src="https://i.ibb.co/jVxZWv9/review.jpg" alt="review" border="0">
