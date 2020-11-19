@@ -211,6 +211,10 @@ u can easily, quickly build an Android/Ios App Use this template.
 </pre>
 
 <h2><strong>Other apps you may love</strong></h2>
+<a href="https://codecanyon.net/item/ionic-6-angular-10-fitness-theme-template-androidioswebapp/29415999" target="_blank">
+    <img src="https://i.ibb.co/4Ps2PGQ/fruits.png" alt="Ionic 5 Fruit Full App with Firebase/Angular Dashboard backend"
+         border="0">
+</a>
 <a href="https://codecanyon.net/item/ionic5-fruit-app-with-firebase/24448819" target="_blank">
     <img src="https://i.ibb.co/4Ps2PGQ/fruits.png" alt="Ionic 5 Fruit Full App with Firebase/Angular Dashboard backend"
          border="0">
